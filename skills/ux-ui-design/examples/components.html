@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UX/UI Reference Components</title>
+  <link rel="stylesheet" href="design-tokens.css">
+  <style>
+    body {
+      font-family: var(--font-family);
+      background-color: var(--color-bg-subtle);
+      color: var(--color-text-primary);
+      margin: 0;
+      padding: var(--space-6);
+      line-height: var(--line-height-normal);
+    }
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+    }
+    h1 { font-size: var(--font-size-h1); margin-bottom: var(--space-2); }
+    p.lead { color: var(--color-text-secondary); margin-bottom: var(--space-6); }
+    
+    .card {
+      background: var(--color-bg-base);
+      border-radius: var(--radius-lg);
+      padding: var(--space-5);
+      box-shadow: var(--shadow-md);
+      border: 1px solid var(--color-border);
+      margin-bottom: var(--space-6);
+    }
+    
+    /* Buttons: Horizontal padding is 2x vertical padding */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 12px 24px;
+      font-size: var(--font-size-body);
+      font-weight: var(--font-weight-semibold);
+      border-radius: var(--radius-md);
+      border: 1px solid transparent;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.15s ease;
+    }
+    .btn-primary {
+      background-color: var(--color-primary);
+      color: #FFFFFF;
+    }
+    .btn-primary:hover { background-color: var(--color-primary-hover); }
+    
+    .btn-secondary {
+      background-color: transparent;
+      border-color: var(--color-border);
+      color: var(--color-text-primary);
+    }
+    .btn-secondary:hover { background-color: var(--color-bg-subtle); }
+
+    .btn-destructive {
+      background-color: var(--color-destructive);
+      color: #FFFFFF;
+    }
+    .btn-destructive:hover { background-color: var(--color-destructive-hover); }
+
+    /* Single Column Form with strict 8pt proximity */
+    .form-group {
+      margin-bottom: var(--space-4); /* 24px gap between groups */
+      display: flex;
+      flex-direction: column;
+    }
+    .form-label {
+      font-size: 14px;
+      font-weight: var(--font-weight-medium);
+      margin-bottom: var(--space-2); /* 8px proximity to input */
+    }
+    .form-input {
+      padding: 12px 16px;
+      font-size: var(--font-size-body);
+      border-radius: var(--radius-md);
+      border: 1px solid var(--color-border);
+      background: var(--color-bg-base);
+      color: var(--color-text-primary);
+      outline: none;
+    }
+    .form-input:focus {
+      border-color: var(--color-primary);
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+    }
+    .form-helper {
+      font-size: var(--font-size-caption);
+      color: var(--color-text-secondary);
+      margin-top: var(--space-1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Design Guidelines Live Demo</h1>
+    <p class="lead">Built with rules synthesized from 16 professional UI/UX books.</p>
+
+    <!-- Component 1: Card with Action Buttons -->
+    <div class="card">
+      <h3 style="margin-top: 0; font-size: var(--font-size-h3);">Tugmalar Ierarxiyasi</h3>
+      <p style="color: var(--color-text-secondary);">
+        Asosiy harakat bitta bo‘lishi (Primary), ikkinchi darajalisi chegaralangan (Secondary), va xavfli harakat qizil bo‘lishi shart.
+      </p>
+      <div style="display: flex; gap: var(--space-3); flex-wrap: wrap;">
+        <button class="btn btn-primary">Hisobni Saqlash</button>
+        <button class="btn btn-secondary">Bekor Qilish</button>
+        <button class="btn btn-destructive">O‘chirish</button>
+      </div>
+    </div>
+
+    <!-- Component 2: Single-column Form -->
+    <div class="card">
+      <h3 style="margin-top: 0; font-size: var(--font-size-h3);">Yagona Ustunli Forma</h3>
+      <form onsubmit="return false;">
+        <div class="form-group">
+          <label class="form-label" for="name">To‘liq Ismingiz</label>
+          <input class="form-input" id="name" type="text" placeholder="Aziz Axtamov">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="email">Elektron Pochta</label>
+          <input class="form-input" id="email" type="email" placeholder="example@mail.com">
+          <span class="form-helper">Biz hech qachon spamlarni yubormaymiz.</span>
+        </div>
+
+        <button class="btn btn-primary" style="width: 100%;">Ro‘yxatdan O‘tish</button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>

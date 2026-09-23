@@ -1,0 +1,150 @@
+# «The Ultimate UI Design Roadmap», Michael Filipiuk
+
+> **Manba**: C:\Users\CUBO\Desktop\Files\books\UXUI\«The Ultimate UI Design Roadmap», Michael Filipiuk.pdf
+> **Jami sahifalar**: 36 (OCR orqali to'liq o'qildi)
+
+---
+
+### Sahifa 1
+
+The Ultimate UI Design Roadmap A step-by-step plan for learning Ul Design from scratch FOR FREE) Michael Filipiuk
+
+### Sahifa 2
+
+Table of Contents Introduction Step 1 step 2 Step 3 Step 4 step 5 Step 6 Step 7 step 8 Step 9 step 10 step 11 A special offer The End TABLE OF CONTENTS 01 03 06 09 12 14 16 19 22 24 26 28 30 33
+
+### Sahifa 3
+
+Introduction Hey, Michael here! Before we begin, I wanted to thank you for downloading this free eBook. The fact that you trust me enough to learn from me means the world to me. I hope this eBook will help you kickstart and progress your design career! I wrote it to help beginner designers get into UI Design. After getting hundreds of Instagram messages from people asking me how to do it, I decided to compile everything I know into one, short eBook - the one that you're reading right now. I designed a structured, easy-to-follow plan that every beginner can follow to become good at design. Becoming a pro takes time, but becoming good enough to get a job or start freelancing isn't as hard as most people think. Even though this eBook is designed for beginners, I like to think that intermediate and professional-level designers will get something out of it as well. If you feel stuck in your career, maybe it will help! Oh, and one more thing. I think it's obvious, but my eBook isn't the only way to get into IJI Design. There are endless ways to get good INTRODUCTION 01
+
+### Sahifa 4
+
+at design, so I won't pretend like I found some kind of a "best solution". It's just my recommendation (and what I wish I did when I started). Reading this eBook won't take you more than an hour, but going through the resources in it and applying my advice can take you weeks, if not months. Don't worry though, learning design on your own is a self-paced process. Take it fast, or take it slow. Before I begin, I wanted to make it clear that this eBook itself will not teach you Ul Design. It will show you how to learn Ul Design. Treat it as a knowledge base, not a complete guide itself. With love, Michael Filipiuk INTRODUCTION 02
+
+### Sahifa 5
+
+Step 1: Identify your why The first step of starting to learn anything should be identifying your "why". Without strong motivation, it can be tough to sustain hundreds of hours of learning, practicing and overall hard work that are coming next. There are many reasons why you might want to learn UI Design, but I listed a few common ones below: You design products that change the world Think of products like Facebook, Google, PayPal or Notion. Billions of people use them and their lives are better because of that. People that designed these products probably are (and should be) very proud of themselves and their work. You make the world a better place for the users Digital product designers are problem solvers. Every successful business solves a serious problem. More specifically, their product solves that problem, and to do it properly, it has to be designed properly. Designers truly make the world a better place with their work - they solve problems. STEP 1 03
+
+### Sahifa 6
+
+You help businesses come to life and thrive Like I outlined in the previous point, designers help the world. You not only help thousands (or sometimes millions, or billions) of users, but you also help businesses of all sizes come to life and succeed. You can learn it fully on your own The reason why this guide can even exist is because you can learn design entirely on your own - without college. Everything you need can be found online - both free and paid. You can work from anywhere We work from our computers. The pandemic showed us that remote work is entirely doable, so if that's what you're into - you'll love design! It's constantly evolving and growing Design as an industry is ever-changing - there are new trends, ideas and concepts to explore. You'll never get bored of it, trust me. STEP 1 04
+
+### Sahifa 7
+
+You see the results and impact of your work There's no better feeling than seeing the results of your work and the impact it has on the world. For example, seeing the app you design launch and get positive reviews is a truly wonderful feeling. I COUId go on and on. There are tons of reasons to learn design, and I'm sure you have some unique reasons and motivations yourself. Make sure not to skip this step. Your "why" is your purpose. It's what keeps you going in the hard times and prevents you from burning out. It also prevents you from quitting. If you're serious about this, take a piece of paper and note down the reasons why you want to be a designer. Be honest with yourself though - if you'd like to make a shitload of money doing it - write it down. It's a perfectly normal and understandable reason. STEP 1 05
+
+### Sahifa 8
+
+Step 2: Understand what UI Design actually is If you're just starting out, it might seem like Ul Designers simply draw pretty shapes, but that's not true. Before you start designing, make sure you fully understand what you're getting into. To keep this roadmap short and not to repeat what other designers already said, I simply included a list of fantastic resources you should check out to understand what design is. ARTICLE What is Ul Design? by Interaction Design Foundation Read ARTICLE User Interface Design Basics by usability.gov Read — STEP 2 ARTICLE What is Ul design? What is UX design? Ul vs UX... by They Make Design Read ARTICLE User interface design: Definition, guidelines... by Ivan Kreimer on maze.co Read — 06
+
+### Sahifa 9
+
+Oh, and one more thing: please don't try to memorise this stuff. You can of course, but focus on understanding it - not blindly memorising definitions and terms. Before you continue, make sure that you can explain what is Ul Design to someone else. This proves that you get it. While theory is great, you need some visual understanding as well. Visit these websites to see how user interfaces look like. O Mobbin Design Mobile app inspiration. Check it out — 4 godly.website Beautifully designed websites. Check it out Page Flows Flows from mobile apps. Check it out — nicelydone.club Awesome design, in general. Check it out Those website showcase real digital products. Get familiar with how they look and try to understand them. STEP 2
+
+### Sahifa 10
+
+Too much theory can get confusing. Luckily, Ul Design is something that most of us (l think it's safe to safe that all of us) have already interacted with - after all, we use tens if not hundreds of websites and apps every day. As a Ul Designer, you'll be designing how they look like. Plain and simple. There's no point of overcomplicating it. STEP 2 08
+
+### Sahifa 11
+
+Step 3: Learn the principles of design (and UI Design) Now you know what Ul Design is and why you want to pursue it as a career choice. Great! It's time to actually start learning it. Let's start with the foundations, so principles of design in general. A great resource to start are 10 principles of good design by Dieter Rams. Even though it's a relatively old resource, it's still valid and applies to User Interface Design. WEBSITE 10 principles for good design - by Dieter Rams Yes, this resource is over 40 years old. It wasn't created for digital product purposes, but it applies to it just as well. Read — Reading these 10 principles might make you realise that design (both physical and digital) is all about solving problems. Another fantastic, more Ul/UX-related resource is a website called Laws of UX. It includes many design laws you should take into consideration while designing. STEP 3 09
+
+### Sahifa 12
+
+WEBSITE Laws of UX This website includes over 20 in-depth explanations of various design laws. It's a pretty deep dive, so prepare a few hours for it. Read — A similar resource is Humane by Design - it includes in-depth explanations of seven vital design principles you absolutely need to follow while designing. WEBSITE Humane by Design This website includes detailed explanations of seven design principles, as well as numerous examples for each of them. A must-read. Read — These 3 resources should be enough to understand the very basics of good design. Since in this roadmap we're focusing on Ul Design in general, I couldn't forget about various principles and areas of Ul Design. There are many of them, so I included only the ones that you should focus on first as a beginner. I also included a small blue button on which you can click to read one great article about each of them. STEP 3 10
+
+### Sahifa 13
+
+O Typography Color Using icons Forms Inclusivity O Grid & layout Selecting assets Buttons Accessibility Consistency O o O There are a lot more of them, so treat this short list as just the tip of the iceberg. You can easily find learning resources on your own. Just search the name of the principle and add "Ul Design" at the end, so for example: "typography ui design" or "icons ui design", and you'll find tons of learning resources online. At the end of this eBook, I'll show you a better way to learn all principles of Ul Design (most of you probably know what it is!). STEP 3 11
+
+### Sahifa 14
+
+Step 4: Study guidelines At this point, you already know what UI Design is and you identify the reasons why you might want to learn it. You also have fundamental knowledge of UX and UI principles. It's time to learn from the best: Apple and Google. More specifically, I'm talking about two great resources to extend your UI knowledge even further. First of all, we have Human Interface Guidlines by Apple - a comprehensive guide to designing mobile apps. WEBSITE Human Interface Guidelines by Apple In-depth information and Ul resources for designing great apps that integrate seamlessly with Apple platforms. Great for all UI/UX Designers. Read While the tips are intended to be platform-specific, they honestly aren't. They're generally good to follow. A similar, even more comprehensive resource is called Material Design guidelines, and it's made by Google. It includes tons of tips about typography, layout, color, and more. Even though it was made for the Android operating system, most of the knowledge from it is STEP 4 12
+
+### Sahifa 15
+
+universal - just like with Human Interface Guidelines by Apple. WEBSITE Material Design Guidelines Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Read — Both of these resources are loved by professional designers. I still can't believe Google and Apple released them for free, but I guess we should simply be thankful and enjoy them! These resources aren't some kind of definitive guides for learning design, but they include tons of tips. They're literal gold mines. You might want to prepare a few hours to go through them. Also, make sure to take notes - either using pen & paper or digitally. STEP 4 13
+
+### Sahifa 16
+
+Step 5: Study design systems A design system is a collection of design components and guidelines that companies create for their digital products. While most companies keep their systems private, some don't, and luckily for us - we can study them and learn a lot about design from them. The next step of our roadmap includes getting familiar with some of the most popular design systems. You don't need to follow them step-by-step - in fact, you shouldn't. If you WOUId, you'd be stealing the design made by other companies. That being said, it's okay to get inspired - especially if you're just starting out. DESIGN SYSTEM Atlassian Design System Check out Atlassian's end-to-end design language and learn how to create simple, intuitive and beautiful experiences. Read Before you continue, get at least a bit familiar with Atlassian Design System to understand how to use this type of resource for learning. These guidelines aren't meant to be copied - treat them as nothing more as a source of inspiration. Let's continue. STEP 5 14
+
+### Sahifa 17
+
+DESIGN SYSTEM Primer Design System GitHub's design system. It includes lots of knowledge for both designers and developers. Read — DESIGN SYSTEM Spectrum by Adobe Spectrum provides components and tools to help product teams work more efficiently, and to make Adobe's applications more cohesive. Read — DESIGN SYSTEM Carbon Design System Carbon is IBM's open source design system for products and digital experiences. One of my personal favorites. Read — When you're going through them, make sure to focus just on the design part. A lot of these design systems also include development guidelines, but that's irrelevant for now. STEP 5 15
+
+### Sahifa 18
+
+Step 6 - Get familiar with trends and styles At this point, you know quite a bit about design already. It's time you get familiar with some of the most popular styles in the Ul world. Flat design is a style which uses simple, two-dimensional elements. It lacks depth, and was created for ultimate simplicity. Flat Uls are very common nowadays - they're very efficient and easily understandable. ARTICLE Flat Design by Interaction Design Foundation This introductory-level article will teach you the very basics of flat design from the theoretical side. Read — Skeumorphism is a style in which Ul components mimic the real world with complicated light and shadow practices. Uls designed with this style resemble the real world. Skeumorphism was very popular after apple released the iPhone. This style helped people that never interacted with Uls before understand and use digital products, since they resembled the real world which they already STEP 6 16
+
+### Sahifa 19
+
+knew and understood very well. ARTICLE Skeumorphism by Interaction Design Foundation This introductory-level article will teach you the very basics of skeumorphic IJI from the theoretical side. Read — Material design is a style developed by Google - if you had a look at Material Design Guidelines, you're already familiar with it. Visually, Material design is highly similar to Flat design, but what puts it apart is a strict set of guidelines and rules. WEBSITE Material Design Guidelines Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Read — Dark mode is a low-light Ul style in which the background color is dark - usually black or very dark grey. It's a reversal of the default, light mode I-Jl. Even though it was created as an alternative to regular, light interfaces, many products nowadays are designed only STEP 6
+
+### Sahifa 20
+
+in dark mode. ARTICLE In the Spotlight: the Principles of Dark Ul Design This brilliant article will teach you everything you should know about dark mode interfaces, including a few examples. Read — These are the 4 key styles you should get familiar with before you continue. There are many more trends in the design world: 3D, neumorphism, isometric design and more, but focus on the established styles first. Don't get too attached to any of those styles though. Most Uls you see today are a blend of all of them - a hybrid style, so to speak. Design styles are nothing more than a collection of particular visual characteristics. You don't need to choose one of these four before you start working on a project. STEP 6 18
+
+### Sahifa 21
+
+Step 7 - Get some essential design tools All we did so far was theory - it's time to get our hands dirty, don't you think? For that, we need some tools. First of all, we need a tool to create the Ul itself. The most popular choice nowadays (and my recommendation) is Figma. It has a free plan, and it has every feature you might need when it comes to IJI. It also has tons of useful plugins to make it even more powerful. Figma. My personal recommendation. Check it out — Two other popular choices are Sketch and Adobe XD. Both are very good, but they're nowhere nearly as popular as Figma. While being popular isn't a benefit on its own, you'll likely be working in a team as a designer, and it's best if you're all working with the same tool. Sketch STEP 7 Check it out Xd Adobe XD Check it out 19
+
+### Sahifa 22
+
+Another tool you'll need is the one for creating wireframes. I personally use Whimsical for that purpose, but even pen & paper is just fine. O Whimsical. My personal recommendation. Check it out — These 2 tool categories are all you need to get started, but as your career progresses, you'll also need these tools: Motion UI Design. Designing interactions and prototypes is a bit more advanced than creating still images, so you might want to look into it a bit later. That being said, if you decide to do it, I recommend checking out Principle or ProtoPie. Principle Check it out ProtoPie Check it out Task management. It's likely that you'll be working on many different things in your design career, so good project management is a must. I recommend checking out Notion or Google Calendar. STEP 7 20
+
+### Sahifa 23
+
+Both of them, when used correctly, will help you handle any task out there. G. cal. Check it out — Notion Check it out — Communication. If you join a team, you won't really get a say about the tool you'll use to communicate with other team members, but if you work with clients or you run an agency - you do. I recommend Slack and Loom for text, audio and video communication. Slack Check it out Loom Check it out Keep your toolkit simple at first. You don't need tens of tools to do good work - Figma should be enough for the first few months of your career. If you'd like to learn it from scratch, check out Mizko on YouTube, or just search YouTube for "figma beginner tutorial". Again, you'll be surprised how much you can learn for free. STEP 7 21
+
+### Sahifa 24
+
+Step 8: Design resources Okay, at this point you went through multiple design articles, guidelines and design systems. You know quite a bit about design (at least for a beginner!). By now, you also ShOUId have a design tool downloaded, but to create cool designs you'll need some quality resources. When I was a beginner, I used to handpick all images, icons and illustrations from different sites on the internet. Not only this would cost me long hours of time, but also the assets I found were USUaIIy inconsistent with each other and looked pretty poorly. I don't want you to do the same mistake, so below you can find the list of all the resources I use and recommend. Click/tap on a link to use it. Free fonts fonts.google.com fontshare.com fontesk.com fontspark.app fontesk.com fontsquirrel.com STEP 8 Free photos unsplash.com barnimages.com negativespace.com pexels.com remove.bg 22
+
+### Sahifa 25
+
+Free illustrations drawkit.io icons8.com/ouch grafikstash.com/glaze undraw.co manypixels.co Inspiration sources dribbble.com mobbin.design awwwards.com siiimple.com behance.net minimal.gallery STEP 5 Free icons feathericons.com iconmonstr.com orioniconlibrary.com iconic.app iconscout.com Iconly (click) 23
+
+### Sahifa 26
+
+Step 9: Practicing design It's time to actually start designing. You have some knowledge, you have the tools and you have the resources. Now you need to know how to practice. There are two ways of practicing UI Design which I believe are optimal for every beginner out there. The first one is joining the Daily UI challenge. It's a challenge which includes many design challenges, created to take you from a beginner to an intermediate-level designer. During the challenge, you'll be designing many different UI screens and components. Over 250,000+ designers took this challenge and improved their skills. Oh, and it's free. WEBSITE Daily Ul challenge Daily IJI is a series of daily design challenges, inspiration and surprise rewards. It's a fantastic way for beginners to get into design. Check it out The second way is called design tracing, also known as "copying for practice purposes". It's self-explanatory - you basically find a IJI that you like, and you copy it - pixel by pixel, with huge attention to STEP 9 24
+
+### Sahifa 27
+
+detail. While at first it might seem unethical, remember that you're not going to publish your copy anywhere - it's just for practice. By doing it, you learn how the designer achieved a particular result - and after tracing, you know how to achieve it as well. Tracing is what I did at the very beginning of my career. I copied like 20-30 Uls before I started designing my own stuff. I'm 100% sure that these two ways of practicing design are enough to take you from a newbie to an intermediate-level designer. Of course, work on some client projects or get a job whenever you get a chance. Getting to work on real projects is guaranteed to teach you more than creating concept projects. If you're a complete beginner and you're serious about learning Ul Design, set a challenge for yourself. For example, decide that you'll design for 2 hours a day for one month - one hour of the Daily Ul challenge, and 1 hour of design tracing Uls from mobbin.design or Dribbble. You'll be surprised how much you can learn within a month. Naturally, after some time you'll want to create your own stuff instead of just following a strict plan from the Daily Ul challenge or copying other people's work. This is where concept projects come in. On websites such as fakeclients.com and goodbrief.io you'll find fake client briefs which you can use to practice your design skills to solve real problems. As soon as you become at least slightly confident in your skills, experiment with creating your own stuff and drop design tracing. STEP 9 25
+
+### Sahifa 28
+
+Step 10: Picking a career path Sure - designing for fun is... well, fun. But at some point, you'll likely want to make design your career. There are many ways to make money as a designer, but considering that you're a beginner, I'll only focus on the ones directly accessible for you. The first, and probably the most desirable and popular career path is getting a job - whether it's full-time or part-time, doesn't matter. Getting a job as a beginner is likely the best thing you can do for your career long term. The pace at which you learn is very high, and you'll learn much faster than by practicing on your own - simply because you get to work on real projects. Naturally, a typical 9-to-5 job isn't very appealing - but who said you need a 9-5? Part-time jobs are also a thing, so find what you like. This isn't an eBook which will teach you how to find a job though - there are entire books, courses and seminars made for that purpose. My only advice is to build a solid portfolio, but more about that in the next step. Another popular path is freelancing - working for various clients instead of just one company. I started my career with freelancing, simply because I hated the idea of being tied to just one company. I believe freelancing is a good way to start, but if you're a complete beginner, your skills likely aren't good enough to have value on the market - in other words, you likely won't get any clients for the first STEP 10 26
+
+### Sahifa 29
+
+few months for your career. Freelancing requires more organizational skills, as well as knowledge in sales, marketing and communication. Its biggest drawback is that the income is very unstable - one month you'll make $200, another month you'll make $10,000. As you get better, more and more doors become open to you. You'll get job opportunities, clients will reach out to you, or maybe you'll want to start your own agency one day? The sky's the limit. You just need to be good. STEP 9 27
+
+### Sahifa 30
+
+Step 11: What's next? Now you know everything you need to get started in design. This eBook was supposed to give you a clear roadmap and structure, and I hope I succeeded at that. YOU now know how to gain Ul-related theory and how to practice. There's one more thing though. A thing which I believe every single designer - no matter the experience level - should do, and it's to start a social media account. I truly believe that every designer out there should have a social media account - regardless if it's on Instagram, Twitter, or maybe even TikTok - just create one for yourself and share your work there. If you're doing the Daily IJI challenge, you already know what to post. You have content for at least the next 100 days. It doesn't matter if your UIs will get 2 likes, or if they suck at first. What matters is that you're showing your work to the world. Why it's so important? Simply because it opens many new opportunities. I got countless new clients and my current job partly due to Instagram and the huge community I built there over the past 18 months. Creating for others to see is also a good motivation source - it's certainly better than creating something and never letting it escape your computer or laptop. Share your work with others and become a member of the design community. It really pays off. STEP 11 28
+
+### Sahifa 31
+
+You have access to knowledge. This eBook wasn't suppose to teach you Ul Design, but show you how to learn it yourself. There's this beautiful proverb you might have heard already: Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime. I wanted to teach beginner designers how to fish - so how to find knowledge online and organise it with a clear structure. If you got value out of this eBook, that means that I succeeded. Even though you have access to knowledge, the rest is up to you. Do you have the motivation to learn design? Are you ready to sacrifice a few hours every day on learning to design? If your "why" is strong enough, I'm sure you are. Just think of yourself in a year or two from now - working for great clients or a great company, sharing your work online for your community of thousands of designers and changing the world for the better. You just need to put in the work. STEP 11 29
+
+### Sahifa 32
+
+A special offer Some of you probably know that I wrote a best-selling UI Design eBook called "UI Design Principles". So far, it helped over 2,200 designers elevate their skills. It's currently the highest rated book about User Interface Design. Sure, you can spend hours, days or even weeks going through free articles and videos online, but if you want to save tons of time with one proven resource - check out IJI Design Principles. It's an absolute value bomb - it includes over 500 pages. It's also more affordable than any COUrse out there. It will teach you every single UI Design principle. It contains everything you need to know to design clean and usable interfaces. It helped readers land a job, make more money from designing and become more confident while designing. Learn more about UI Design Principles WHAT THE READERS HAVE SAID: This book has helped me massively improving my designs. I have been doing Daily Uls since the start, and in the span of 10 days the designs looked way better. Felipe A SPECIAL OFFER I really reading this book. I learned a lot of things there based on the Ul Design that I will use for my next projects. thank you so much! Quentin 30
+
+### Sahifa 33
+
+I really love the book, It's easy to read/ understand. I would love to know the future Of the book. Thanks for making this book :D Olivia I thought it was pretty good, for beginners, even I with several years Of experience managed to take something away from your book. Ryan The book is awesome. I have learnt a lot and I don't regret spending my last dime on it, still broke, Haha! but i would do it again. Gloria It is the I have ever read, it is very helpful for beginners Aryan It's best book for I'm only Starting my UI/UX way, but this information was very helpful. Sergey Great book for starting out in Ul Design and learning the best way to create beautiful designs. Ivan This eBook has helped me so much to understand the basics Of Ul There is so much information out online, that it's hard to learn about IJI design. Cigdem It is great! I liked every second Of reading it. Thanks for writing this awesome book Loved it! I started my journey into Ul design at the end of 2020 and have managed to create few projects up until now, which during that time I believed I'd began to 'figure Ul design out'. That was until I read this book. I now know how much I was actually missing, even at the most basic level. Thanks to Michael, I now have a reliable and realistic guide/structure which I can follow! Howard A SPECIAL OFFER 31
+
+### Sahifa 34
+
+The eBook has only positive reviews. Seems like everyone loves it! I'm also offering a money-back guarantee, so if you won't like the eBook for any reason - I will refund you the whole amount. It's also on a 20% discount right now, so you can save some $$$. Learn more about UI Design Principles UI Design Principles Learn to create and usable interfaces from scratch Michael Filipiuk A SPECIAL OFFER 32
+
+### Sahifa 35
+
+The End As I mentioned in the introduction, I wrote this eBook because many people asked me how to get started in design. I completely understand why - there are so many things you need to learn to be SUCCeSSfUI at UI Design that it can be intimidating at first. I hope the structure I outlined for you in this eBook helped, even by just a tiny bit. Learning every skill comes down to the same exact thing: learning the key concepts and practicing them over and over again. Don't get intimidated by thousands of articles, videos, books, courses and other resources - you only need a few to get started. This is the very first version of this eBook, and I'm going to update it in the future based on your feedback. If you'd like to suggest how I can make it more valuable, please message me at this email address: mikef1808@gmaiI.com. Also, follow me on Instagram and Twitter for bite-sized design tips, tricks, resources and more awesomeness: Twitter THE END Follow me Instagram Follow me 33
+
+### Sahifa 36
+
+That's it for now! Let's stay in touch on social media. All the best to you and your family! Michael THE END

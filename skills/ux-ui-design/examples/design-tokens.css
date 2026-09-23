@@ -1,0 +1,74 @@
+/**
+ * UX/UI Design Tokens
+ * Grounded in 16 professional design books (Filipiuk, Malewicz, Carbon, HIG)
+ */
+
+:root {
+  /* --- 1. SPATIAL SYSTEM (8pt Grid) --- */
+  --space-1: 4px;   /* Micro-spacing (badges, tags) */
+  --space-2: 8px;   /* Default gap, label-to-input gap */
+  --space-3: 16px;  /* Component internal padding */
+  --space-4: 24px;  /* Form-group separation, card padding */
+  --space-5: 32px;  /* Section sub-spacing */
+  --space-6: 48px;  /* Section spacing */
+  --space-8: 64px;  /* Large layout blocks */
+
+  /* --- 2. TYPOGRAPHY SCALE (Major Second / Minor Third) --- */
+  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif;
+  --font-size-caption: 12px;
+  --font-size-body: 16px;       /* Never below 14px for body */
+  --font-size-h3: 20px;
+  --font-size-h2: 28px;
+  --font-size-h1: 36px;
+  
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.625;
+
+  /* --- 3. COLOR PALETTE (Light Mode) --- */
+  /* NEVER pure black #000000 */
+  --color-text-primary: #18181B;     /* Deep neutral zinc */
+  --color-text-secondary: #71717A;   /* Subhead / caption */
+  --color-text-disabled: #A1A1AA;
+  
+  --color-bg-base: #FFFFFF;
+  --color-bg-subtle: #F4F4F5;
+  --color-border: #E4E4E7;
+
+  /* Brand / Action Colors */
+  --color-primary: #2563EB;          /* Blue 600 */
+  --color-primary-hover: #1D4ED8;
+  --color-destructive: #DC2626;      /* Red 600 for warning/delete */
+  --color-destructive-hover: #B91C1C;
+  --color-success: #16A34A;
+
+  /* --- 4. BORDER RADIUS & NATURAL SHADOWS --- */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-full: 9999px;
+
+  /* Ultra-soft multi-layered shadows (never harsh defaults) */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.06), 0 2px 4px -2px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
+}
+
+/* --- DARK MODE (Desaturated dual palette) --- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-text-primary: #F4F4F5;
+    --color-text-secondary: #A1A1AA;
+    --color-bg-base: #09090B;        /* Off-black base */
+    --color-bg-subtle: #18181B;      /* Card layer */
+    --color-border: #27272A;
+
+    --color-primary: #3B82F6;        /* Desaturated for dark mode */
+    --color-destructive: #EF4444;
+  }
+}
